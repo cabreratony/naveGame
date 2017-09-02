@@ -1,0 +1,12 @@
+
+var choose_subject_first = "Primero elija un asunto.";
+
+var ask_to_remove_pack = "<p>¿Quiere eliminar el paquete de íconos de los favoritos?</p>";
+
+var userset_removed = "Su conjunto de usuario se ha eliminado.";
+
+var userset_updated = "Su usuario ha sido actualizado.";
+
+var pack_removed_from_fav = "El paquete de iconos se ha eliminado de los favoritos.";
+
+var login_required = "Se requiere registro";
